@@ -1,0 +1,12 @@
+{
+    "name": "@blessedbin/js-utils",
+    "version": "1.0.0",
+    "author": "blessedbin",
+    "description": "第一个发布的测试包",
+    "keywords": [ "my" ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/noahBin23/js-utils"
+    },
+    "homepage": "https://github.com/noahBin23/js-utils"
+}
